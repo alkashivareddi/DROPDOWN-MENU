@@ -24,6 +24,9 @@ Easy to integrate into existing projects
 2.Navigate to the project folder:
 
  cd DROPDOWN-MENU
+# License
+This project is open-source and available under the MIT License.
+
 
 
 
