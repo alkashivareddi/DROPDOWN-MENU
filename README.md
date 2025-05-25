@@ -1,5 +1,9 @@
 # DROPDON-MENU
 DROPDOWN-MENU is a simple and responsive dropdown menu component built using HTML and CSS. This project demonstrates a clean, mobile-friendly layout with a dropdown navigation menu suitable for various web applications.
+# Technologies Used
+
+- HTML5
+- CSS3
 
 # Project Structure
 ```
