@@ -16,6 +16,14 @@ Pure HTML and CSS implementation (no JavaScript)
 Clean and minimalist user interface
 
 Easy to integrate into existing projects
+# How to Use
+1.Clone the repository:
+
+  git clone https://github.com/alkashivareddi/DROPDOWN-MENU.git
+  
+2.Navigate to the project folder:
+
+ cd DROPDOWN-MENU
 
 
 
